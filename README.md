@@ -62,16 +62,17 @@ Covers:
 
 ## Project Structure
 
+```
 i2c_uvm_regfile_variant/
 │
-├── rtl/                # I2C slave register-file DUT  
-├── tb/                 # UVM testbench components  
-├── scripts/            # Questa .do scripts  
-├── modelsim.ini        # ModelSim configuration  
-├── work/               # Simulation library (generated)  
-├── transcript          # Simulation transcript (generated)  
-└── README.md  
-
+├── rtl/                # I2C slave register-file DUT
+├── tb/                 # UVM testbench components
+├── scripts/            # Questa .do scripts
+├── modelsim.ini        # ModelSim configuration
+├── work/               # Simulation library (generated)
+├── transcript          # Simulation transcript (generated)
+└── README.md
+```
 
 ## Simulation Instructions
 
