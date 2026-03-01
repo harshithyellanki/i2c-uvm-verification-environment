@@ -130,8 +130,3 @@ This launches the GUI and loads waveform configuration.
 - Regression automation
 - Coverage report integration
 
-
-## Author
-
-Rohit Yellanki  
-SystemVerilog | UVM | Digital Design Verification
