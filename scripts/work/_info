@@ -1,0 +1,225 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+Z2 !s12c _opt1
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+R2
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 d/home/UFAD/sr.yellanki/Downloads/I2c project/i2c_uvm_regfile_variant/scripts
+T_opt
+Z4 !s11d project/i2c_uvm_regfile_variant/scripts/work /ecel/UFAD/sr.yellanki/Downloads/I2c 1 project/i2c_uvm_regfile_variant/scripts/work 1 /ecel/UFAD/sr.yellanki/Downloads/I2c 
+Z5 !s11d project/i2c_uvm_regfile_variant/scripts/work 1 1 i2c_if_rf 1 /ecel/UFAD/sr.yellanki/Downloads/I2c 
+Z6 !s11d project/i2c_uvm_regfile_variant/scripts/work i2c_pkg_regfile 1 /ecel/UFAD/sr.yellanki/Downloads/I2c 1 i2c_pkg_regfile 
+Z7 !s11d uvm_pkg /apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d 1 i2c_if_rf 1 /ecel/UFAD/sr.yellanki/Downloads/I2c 
+!s110 1771720324
+VMnkbGmlLm:lQEbY<g6JTc0
+Z8 04 14 4 work top_tb_regfile fast 0
+=1-34800d31d840-699a4e83-47f3b-1678b
+R1
+Z9 !s12b OEM100
+Z10 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z11 tCvgOpt 0
+n@_opt
+Z12 OL;O;2023.3;77
+T_opt1
+R4
+R5
+R6
+R7
+!s110 1771719553
+VY]Z1i4;TiT?[DE<@_K?ji3
+R8
+=1-34800d31d840-699a4b80-7de35-1555d
+R1
+R9
+R10
+o-quiet -auto_acc_if_foreign -work work +acc
+R11
+n@_opt1
+R12
+R3
+vi2c_assertions
+2../tb/i2c_assertions.sv
+Z13 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z14 !s110 1771720317
+!i10b 1
+!s100 <o>SY3id5_jY>J``oWJE91
+Ik=LAg18;kB<KUeD_PK43D2
+S1
+R3
+w1771563400
+8../tb/i2c_assertions.sv
+F../tb/i2c_assertions.sv
+!i122 2
+L0 2 31
+Z15 VDg1SIo80bB@j0V0VzS_@n1
+Z16 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z17 !s108 1771720317.000000
+!s107 ../tb/i2c_assertions.sv|
+!s90 -sv|+acc|-work|work|../tb/i2c_assertions.sv|
+!i113 0
+Z18 o-sv +acc -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R11
+Yi2c_if_rf
+2../tb/i2c_if_rf.sv
+R13
+R14
+!i10b 1
+!s100 2ZieXicEd1US5C`H4;^WU3
+IIHiHCEC<_`6SCkZQP2BTl1
+S1
+R3
+w1771552189
+8../tb/i2c_if_rf.sv
+F../tb/i2c_if_rf.sv
+!i122 0
+L0 2 0
+R15
+R16
+r1
+!s85 0
+31
+!s108 1771720316.000000
+!s107 ../tb/i2c_if_rf.sv|
+!s90 -sv|+acc|-work|work|../tb/i2c_if_rf.sv|
+!i113 0
+R18
+R11
+Xi2c_pkg_regfile
+2../tb/uvm/i2c_pkg_regfile.sv
+!s115 i2c_if_rf
+R13
+Z19 DXx6 mtiUvm 7 uvm_pkg 0 22 8V[`8]Q0W57le7Z>zYaAj1
+R14
+!i10b 1
+!s100 ?WS>Mb[8TBDX2@d5UHeH22
+I2ZM2cnfn4b9;j4EJL6zV[3
+S1
+R3
+w1771720309
+8../tb/uvm/i2c_pkg_regfile.sv
+F../tb/uvm/i2c_pkg_regfile.sv
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+F/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+!i122 3
+L0 389 0
+V2ZM2cnfn4b9;j4EJL6zV[3
+R16
+r1
+!s85 0
+31
+R17
+!s107 /apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|/apps/reconfig/tools/siemens/questasim/2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|../tb/uvm/i2c_pkg_regfile.sv|
+!s90 -sv|+acc|-work|work|../tb/uvm/i2c_pkg_regfile.sv|
+!i113 0
+R18
+R11
+vi2c_slave_regfile_dut
+2../rtl/i2c_slave_regfile_dut.sv
+R13
+R14
+!i10b 1
+!s100 G[2lcLIUM7OHRSjJ:gKYJ3
+I[RAL9^Mef<YOCe1abKogY2
+S1
+R3
+w1771700557
+8../rtl/i2c_slave_regfile_dut.sv
+F../rtl/i2c_slave_regfile_dut.sv
+!i122 1
+L0 2 171
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 ../rtl/i2c_slave_regfile_dut.sv|
+!s90 -sv|+acc|-work|work|../rtl/i2c_slave_regfile_dut.sv|
+!i113 0
+R18
+R11
+vtop_tb_regfile
+2../tb/top_tb_regfile.sv
+R13
+R19
+DXx4 work 15 i2c_pkg_regfile 0 22 2ZM2cnfn4b9;j4EJL6zV[3
+!s110 1771720318
+!i10b 1
+!s100 SaKlgiM]dM91G:iiPagY<2
+ImaG]BBPG7aAoE<_7kn7N41
+S1
+R3
+w1771563540
+8../tb/top_tb_regfile.sv
+F../tb/top_tb_regfile.sv
+!i122 4
+L0 2 40
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 ../tb/top_tb_regfile.sv|
+!s90 -sv|+acc|-work|work|../tb/top_tb_regfile.sv|
+!i113 0
+R18
+R11
